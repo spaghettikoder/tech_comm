@@ -2,7 +2,7 @@
 
 The author provided an essay about traveling and explained the stages of development that traveling has gone through. In addition, the author mentioned some potential challenges travelers could face and provided tips to improve their experiences. Overall, the essay was descriptive and discussed traveling from various perspectives and its effects on people from many aspects for both individuals and communities and stated many valid arguments. The essay explained how some global events affected traveling (such as the COVID-19 pandemic), and highlighted as well how the advancements in technologies (such as health passports, mobile check-ins, and contactless payments) have reshaped the way we travel.  
 
-Nevertheless, here are some issues that were identified:
+Nevertheless, some issues were identified:
 
 ### Absence of Subtitles  
 The essay misses subheadings for paragraphs, which would add more clarity to the essay and keep the reader on track with the   sequence of the author's thoughts.  
@@ -11,7 +11,7 @@ The essay misses subheadings for paragraphs, which would add more clarity to the
 - Sometimes there were no smooth transitions between paragraphs, and sometimes there were no smooth transitions between sentences within the paragraph itself.  
 - Moreover, there was no clear transition between some ideas as well. The writer started with the topic of travel, then specified the rest of the essay for tourism, which is not the only type of traveling (there could be more examples such as traveling for work or relocation).  
 
-### Overusage  
+### Over Usage  
 - **Passive Voice:** In the text, passive voice was overused, which reduces the directness and impact of the essay.
 - **Generalizations:** There was also overuse of generalizations without going deep enough to clarify the ideas to reflect the author's thoughts effectively.
 
