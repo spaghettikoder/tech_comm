@@ -8,6 +8,10 @@ Nevertheless, some issues were identified in the text:
 
 The author heavily relied on AI instead of his own creativity as the text was 100% AI-generated according to QuillBot online tool.
 
+### Format:
+
+The author sent an editable file instead of sharing his document as code, which would improve the readability of his text and help him to highlight ideas in a more organized manner.
+
 ### Generalization: 
 
 The text lacks specification as the author provided very general plans.
